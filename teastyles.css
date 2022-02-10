@@ -62,7 +62,7 @@ body {
 /* Mission */
 #mission {
   height: 700px;
-  background-image: url("image/img-mission-background.webp");
+  background-image: url("img-mission-background.webp");
   padding-top: 70px;
 }
 #mission .content {
@@ -99,7 +99,7 @@ body {
 }
 
 #locations {
-  background-image: url("image/img-locations-background.webp");
+  background-image: url("img-locations-background.webp");
   height: 500px;
   padding-top: 70px;
 }
